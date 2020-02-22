@@ -3,3 +3,5 @@ XTerm*loginShell:true
 XTerm.vt100.metaSendsEscape: true
 XTerm.vt100.saveLines: 4096
 XTerm.vt100.scrollBar: false
+URxvt.scrollBar: false
+URxvt.perl-ext-common: ...,tabbed,...
