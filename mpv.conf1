@@ -1,0 +1,7 @@
+save-position-on-quit
+vo=gpu
+ytdl-format=bestvideo[ext=mp4][height<=?1080][fps<31]+bestaudio/best
+terminal=no
+#ytdl-format=bestvideo[height<=?1080][fps<=?30][vcodec!=?vp9]+bestaudio/best
+volume-max=200
+volume=90
