@@ -1,0 +1,1 @@
+ffplay "$(youtube-dl -f best -g $(xsel))"
