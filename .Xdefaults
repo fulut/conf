@@ -5,3 +5,5 @@ XTerm.vt100.saveLines: 4096
 XTerm.vt100.scrollBar: false
 URxvt.scrollBar: false
 URxvt.perl-ext-common: ...,tabbed,...
+URxvt.letterSpace:      -1
+URxvt.font: xft:terminus:pixelsize=18:antialias=true
