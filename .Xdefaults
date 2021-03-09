@@ -1,9 +1,49 @@
-!XTerm.vt100.reverseVideo: true
 XTerm*loginShell:true
 XTerm.vt100.metaSendsEscape: true
-XTerm.vt100.saveLines: 4096
+XTerm.vt100.saveLines: 1024
 XTerm.vt100.scrollBar: false
 URxvt.scrollBar: false
-URxvt.perl-ext-common: ...,tabbed,...
+URxvt.perl-ext-common: tabbed
 URxvt.letterSpace:      -1
-URxvt.font: xft:terminus:pixelsize=18:antialias=true
+URxvt.font: xft:terminus:pixelsize=18
+XTerm*faceName: Liberation Mono:pixelsize=14:antialias=true:autohint=true
+#XTerm*faceName: Monospace
+#XTerm*faceSize: 11
+
+XTerm*VT100.Translations: #override \
+    Ctrl <Key> minus: smaller-vt-font() \n\
+    Ctrl <Key> plus: larger-vt-font() \n\
+    Ctrl <Key> 0: set-vt-font(d)
+
+! special
+*.foreground:   #373b41
+*.background:   #ffffff
+*.cursorColor:  #373b41
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc342b
+*.color9:       #cc342b
+
+! green
+*.color2:       #198844
+*.color10:      #198844
+
+! yellow
+*.color3:       #fba922
+*.color11:      #fba922
+
+! blue
+*.color4:       #3971ed
+*.color12:      #3971ed
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #3971ed
+*.color14:      #3971ed
