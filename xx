@@ -1,1 +1,2 @@
 mpv $(xsel -b)
+mpv $(xclip  -selection c -o)
