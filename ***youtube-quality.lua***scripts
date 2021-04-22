@@ -20,10 +20,10 @@ local opts = {
     select_binding = "ENTER",
 
     --formatting / cursors
-    selected_and_active     = "â¶ - ",
-    selected_and_inactive   = "â - ",
-    unselected_and_active   = "â· - ",
-    unselected_and_inactive = "â - ",
+    selected_and_active     = "^> - ",
+    selected_and_inactive   = "> - ",
+    unselected_and_active   = "<* - ",
+    unselected_and_inactive = "< - ",
 
 	--font size scales by window, if false requires larger font and padding sizes
 	scale_playlist_by_window=false,
