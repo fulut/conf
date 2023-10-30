@@ -1,12 +1,12 @@
-xsetroot -solid dimgray
+xsetroot -solid black
 setxkbmap "us,ru" ",winkeys" "grp:caps_toggle" &
-numlockx on &
 export LC_COLLATE=C
 export LC_CTYPE=ru_RU.UTF-8
 export LC_MONETARY=C
 export LC_NUMERIC=C
 export LC_TIME=C
-mixerctl outputs.master=255,255
-xset dpms 0 0 6000 &
-urxvt &
-exec spectrwm
+xset dpms 0 0 0 &
+xset s off -dpms $
+xterm &
+firefox &
+dwm
