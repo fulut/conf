@@ -1,4 +1,5 @@
 XTerm*loginShell:true
+XTerm.vt100.allowMouseOps: true
 XTerm.vt100.metaSendsEscape: true
 XTerm.vt100.saveLines: 1024
 XTerm.vt100.scrollBar: false
