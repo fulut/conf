@@ -1,0 +1,18 @@
+ciadpi --split 1 --split 10 --split 50 --auto=torst --tlsrec 1+s
+
+--port 1080 --disorder 1 --fake 0 --ttl 1 -A torst --tlsrec 1+s --debug 1
+
+--disorder 1 --fake -1 --ttl 10 --tlsrec 3+s --auto=torst --timeout 3
+
+mpv ytdl://ytsearch5:"Винни Пух"
+
+sed 's/0.0.0.0 //g' blacklist.txt > test
+
+--downloader aria2c --downloader-args 'aria2c:--continue --max-concurrent-downloads=30 --max-connection-per-server=16 --split=30 --min-split-size=1M'
+
+ffmpeg.exe -f gdigrab -i desktop -draw_mouse 1 -rtbufsize 100M -framerate 30 -probesize 10M -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 25 -pix_fmt yuv420p test.mkv
+
+#!/bin/sh
+ffmpeg -y -f x11grab -framerate 60 -i $DISPLAY -r 60 \
+-c:v libx264rgb -crf 0 -preset ultrafast -c:a flac \
+gg-$(date '+%Y-%m-%d_%H:%M:%S').mkv
