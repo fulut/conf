@@ -6,4 +6,4 @@ unbound-control dump_cache #выводит кеш в стандартный вы
 
 unbound-control reload #Очищает кеш и перезагружает настройки
 
-grep '^0\.0\.0\.0' /tmp/ads_hosts | awk '{print "local-zone: \""$2"\" always_refuse"}' > /usr/local/etc/unbound/blacklist.conf
+grep '^0\.0\.0\.0' /tmp/ads_hosts | awk '{print "local-zone: \""$2"\" always_refuse"}' > /usr/local/etc/unbound/block
