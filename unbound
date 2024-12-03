@@ -5,3 +5,5 @@ unbound-control stats_noreset #выводит статистику не сбра
 unbound-control dump_cache #выводит кеш в стандартный вывод
 
 unbound-control reload #Очищает кеш и перезагружает настройки
+
+grep '^0\.0\.0\.0' /tmp/ads_hosts | awk '{print "local-zone: \""$2"\" always_refuse"}' > /usr/local/etc/unbound/blacklist.conf
