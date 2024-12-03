@@ -1,0 +1,7 @@
+unbound-control forward control #DNS over TLS
+
+unbound-control stats_noreset #выводит статистику не сбрасывая ее
+
+unbound-control dump_cache #выводит кеш в стандартный вывод
+
+unbound-control reload #Очищает кеш и перезагружает настройки
