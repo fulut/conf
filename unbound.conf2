@@ -6,7 +6,7 @@ server:
         #interface: ::1
         #quic-port: 2853
         do-ip6: no
-
+        do-ip4: yes
         # override the default "any" address to send queries; if multiple
         # addresses are available, they are used randomly to counter spoofing
         #outgoing-interface: 192.0.2.1
@@ -88,7 +88,8 @@ forward-zone:
         forward-first: no                       # do NOT send direct
 #       # the hostname after "#" is not a comment, it is used for TLS checks:
         forward-addr: 208.67.222.222@853#dns.opendns.com
-        forward-addr: 208.forward-addr: 8.8.8.8@853 #dns.google
+        forward-addr: 208.67.220.220@853#dns.opendns.com
+        forward-addr: 8.8.8.8@853 #dns.google
         forward-addr: 8.8.4.4@853 #dns.google
         forward-addr: 1.1.1.3@853 # CloudFlare
         forward-addr: 9.9.9.9@853 # quad9.net primary
