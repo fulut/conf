@@ -99,4 +99,25 @@ forward-zone:
         forward-addr: 184.105.193.78@853#tls-dns-u.odvr.dns-oarc.net
         forward-addr: 185.49.141.37@853#getdnsapi.net
         forward-addr: 199.58.81.218@853#dns.cmrg.net
-        
+
+#########################################freebsd  et/un/un
+        interface: 127.0.0.1
+        port: 53
+        tls-port: 853
+        interface: 127.0.0.1@853
+        do-ip4: yes
+        do-ip6: no
+#       prefetch: yes
+#       ache-min-ttl: 7200
+#       cache-max-ttl: 90000
+#       cache-max-negative-ttl: 10
+        hide-identity: yes
+        hide-version: yes
+############################3feebsd 
+
+forward-zone:
+        name: "."
+        forward-tls-upstream: yes
+        forward-first: no
+        forward-addr: 149.112.112.112@853
+        forward-addr: 208.67.222.222@853
