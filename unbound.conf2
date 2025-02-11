@@ -100,7 +100,8 @@ forward-zone:
         forward-addr: 185.49.141.37@853#getdnsapi.net
         forward-addr: 199.58.81.218@853#dns.cmrg.net
 
-#########################################freebsd  et/un/un
+#########################################freebsd  et/un/un     /etc/rc.d/local_unbound restart
+
         interface: 127.0.0.1
         port: 53
         tls-port: 853
@@ -113,7 +114,8 @@ forward-zone:
 #       cache-max-negative-ttl: 10
         hide-identity: yes
         hide-version: yes
-############################3feebsd 
+############################3feebsd /etc/rc.d/local_unbound restart
+
 
 forward-zone:
         name: "."
