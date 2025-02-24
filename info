@@ -1,0 +1,15 @@
+https://p.thenewone.lol:8443/proxy.pac 
+##
+0.0.0.0 lenta.ru
+0.0.0.0 ya.com
+0.0.0.0 yandex.com
+0.0.0.0 ya.ru
+0.0.0.0 yandex.ru
+0.0.0.0 vk.com
+0.0.0.0 vk.ru
+0.0.0.0 ok.ru
+0.0.0.0 m.ok.ru
+0.0.0.0 news.rambler.ru
+0.0.0.0 rambler.ru
+0.0.0.0 news.mail.ru
+0.0.0.0 mail.ru
