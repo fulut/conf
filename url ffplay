@@ -1,1 +1,3 @@
+yt-dlp $(xclip -o) -o - | ffplay -autoexit -
+
 youtube-dl $(xsel) -o - | ffplay -autoexit -
