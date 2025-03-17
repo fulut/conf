@@ -1,3 +1,5 @@
+browser.cache.disk.enable false
+
 https://p.thenewone.lol:8443/proxy.pac 
 ##
 0.0.0.0 lenta.ru
