@@ -13,3 +13,4 @@ xset s 4000
 xterm &
 firefox &
 exec dwm
+## /etc/sysctl.conf   sysctl     kern.bufcachepercent=50
