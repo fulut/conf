@@ -1,7 +1,12 @@
 browser.cache.disk.enable false
 /etc/sysctl.conf   sysctl     kern.bufcachepercent=50
 https://p.thenewone.lol:8443/proxy.pac 
-##
+
+# echo permit persist :wheel > /etc/doas.conf
+# chmod 0600 /etc/doas.conf
+#
+
+#
 0.0.0.0 lenta.ru
 0.0.0.0 ya.com
 0.0.0.0 yandex.com
