@@ -1,7 +1,18 @@
+////
+privoxy
+listen-address  127.0.0.1:8118
+forward-socks5t   /               205.209.113.242:1080:1080 .
+
+////
+
+mpv.conf  
+http-proxy=127.0.0.1:8118
+
+////
 browser.cache.disk.enable false
 /etc/sysctl.conf   sysctl     kern.bufcachepercent=50
 https://p.thenewone.lol:8443/proxy.pac 
-
+///
 # echo permit persist :wheel > /etc/doas.conf
 # chmod 0600 /etc/doas.conf
 #
