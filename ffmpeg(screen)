@@ -1,1 +1,1 @@
-ffmpeg -f x11grab -r 200 -framerate 200 -s 1440x900 -i :0.0 file.mp4
+ffmpeg -f x11grab -r 200 -framerate 200 -s 1440x900 -i :0.0 file.mkv
