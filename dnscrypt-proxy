@@ -1,0 +1,29 @@
+server_names = ['quad9-doh-ip4-port443-filter-pri', 'quad9-doh-ip4-port443-filter-ecs-pri']
+disabled_server_names = ['yandex', 'yandex-ipv6', 'yandex-safe', 'yandex-safe-ipv6']
+
+ipv4_servers = true
+
+# Use servers reachable over IPv6 -- Do not enable if you don't have IPv6 connectivity
+ipv6_servers = false
+
+# Use servers implementing the DNSCrypt protocol
+dnscrypt_servers = true
+
+# Use servers implementing the DNS-over-HTTPS protocol
+doh_servers = true
+
+# Use servers implementing the Oblivious DoH protocol
+odoh_servers = false
+
+
+## Require servers defined by remote sources to satisfy specific properties
+
+# Server must support DNS security extensions (DNSSEC)
+require_dnssec = true
+
+# Server must not log user queries (declarative)
+require_nolog = true
+
+# Server must not enforce its own blocklist (for parental control, ads blocking...)
+require_nofilter = true
+http3 = true
