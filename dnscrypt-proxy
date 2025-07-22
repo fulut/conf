@@ -1,8 +1,9 @@
-server_names = ['quad9-doh-ip4-port443-filter-pri', 'quad9-doh-ip4-port443-filter-ecs-pri']
+server_names = ['plan9dns-nj-doh', 'plan9dns-mx-doh', 'plan9dns-fl-doh', 'dns4all-ipv4']
+
+#server_names = ['quad9-doh-ip4-port443-filter-pri', 'quad9-doh-ip4-port443-filter-ecs-pri']
 disabled_server_names = ['yandex', 'yandex-ipv6', 'yandex-safe', 'yandex-safe-ipv6']
-
 ipv4_servers = true
-
+odoh_servers = true
 # Use servers reachable over IPv6 -- Do not enable if you don't have IPv6 connectivity
 ipv6_servers = false
 
