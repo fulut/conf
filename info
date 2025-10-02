@@ -27,8 +27,8 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 yastatic.net
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 www.gstatic.com
-0.0.0.0 gstatic.com
+#0.0.0.0 www.gstatic.com
+#0.0.0.0 gstatic.com
 0.0.0.0 vk.com
 0.0.0.0 vk.ru
 0.0.0.0 vk.com
@@ -38,8 +38,8 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 news.rambler.ru
 0.0.0.0 rambler.ru
 0.0.0.0 news.mail.ru
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
+#0.0.0.0 googleads.g.doubleclick.net
+#0.0.0.0 static.doubleclick.net
 0.0.0.0 mail.ru
 0.0.0.0 mycdn.me
 0.0.0.0 api.mycdn.me
@@ -69,4 +69,4 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 i.okcdn.ru
 0.0.0.0 vd409.okcdn.ru
 0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 ajax.googleapis.com
+#0.0.0.0 ajax.googleapis.com
