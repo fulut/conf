@@ -5,7 +5,7 @@ forward-socks5t   /               205.209.113.242:1080:1080 .
 
 ////
 
-mpv.conf  
+yt-dlp  
 http-proxy=127.0.0.1:8118 http-proxy=socks5://205.209.113.242:1080
 
 ////
