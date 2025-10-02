@@ -17,12 +17,19 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.conf
 #
 
-#
+# hosts
 0.0.0.0 lenta.ru
 0.0.0.0 ya.com
 0.0.0.0 yandex.com
+0.0.0.0 yadro.ru
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 yastatic.net
+0.0.0.0 counter.yadro.ru
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 www.gstatic.com
+0.0.0.0 gstatic.com
 0.0.0.0 vk.com
 0.0.0.0 vk.ru
 0.0.0.0 ok.ru
