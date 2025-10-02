@@ -15,7 +15,6 @@ https://p.thenewone.lol:8443/proxy.pac
 ///
 # echo permit persist :wheel > /etc/doas.conf
 # chmod 0600 /etc/doas.conf
-#
 
 # hosts
 0.0.0.0 lenta.ru
@@ -32,9 +31,40 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 gstatic.com
 0.0.0.0 vk.com
 0.0.0.0 vk.ru
+0.0.0.0 vk.com
 0.0.0.0 ok.ru
+0.0.0.0 okcdn.ru
 0.0.0.0 m.ok.ru
 0.0.0.0 news.rambler.ru
 0.0.0.0 rambler.ru
 0.0.0.0 news.mail.ru
 0.0.0.0 mail.ru
+0.0.0.0 mycdn.me
+0.0.0.0 api.mycdn.me
+0.0.0.0 api.expf.ru
+0.0.0.0 bl.rutube.ru
+0.0.0.0 ssp.rutube.ru
+0.0.0.0 static.rutube.ru
+0.0.0.0 test.rutube.ru
+0.0.0.0 pic.rutubelist.ru
+0.0.0.0 rutube.ru
+0.0.0.0 log.rutube.ru
+0.0.0.0 pic.rutube.ru
+0.0.0.0 preview.rutube.ru
+0.0.0.0 goya.rutube.ru
+0.0.0.0 river-1.rutube.ru
+0.0.0.0 instruments.tds.bid
+0.0.0.0 river-4-424.rtbcdn.ru
+0.0.0.0 vst.dfn-network.pro
+0.0.0.0 pretarg.adhigh.net
+0.0.0.0 0af2a962b0102942d9a7df351b20be55.com
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 vast.ufouxbwn.com
+0.0.0.0 api.vigo.one
+0.0.0.0 california1955.nl
+0.0.0.0 usocial.pro
+0.0.0.0 a.suprion.ru
+0.0.0.0 i.okcdn.ru
+0.0.0.0 vd409.okcdn.ru
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 ajax.googleapis.com
