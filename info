@@ -20,6 +20,8 @@ https://p.thenewone.lol:8443/proxy.pac
 ##
 0.0.0.0 asterios.tm
 0.0.0.0 forum.asterios.tm
+
+
 0.0.0.0 moscow.megafon.ru
 0.0.0.0 lc.megafon.ru
 0.0.0.0 megafon.ru
