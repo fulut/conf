@@ -17,6 +17,18 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 
 # hosts
+0.0.0.0 beelineru.ru
+0.0.0.0 api-maps.yandex.ru
+0.0.0.0 moskva.beeline.ru
+0.0.0.0 beeline.ru
+0.0.0.0 static.beeline.ru
+0.0.0.0 beeline.api.flocktory.com
+0.0.0.0 www.artfut.com
+0.0.0.0 cstatic-ru-cv.weborama-tech.ru
+0.0.0.0 mts.ru
+0.0.0.0 orenburg.mts.ru
+0.0.0.0 119.p.giex.ru
+
 0.0.0.0 california1955.nl
 0.0.0.0 cdn.adfinity.pro
 0.0.0.0 anix.media
