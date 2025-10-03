@@ -17,11 +17,21 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 
 # hosts
+0.0.0.0 california1955.nl
+0.0.0.0 cdn.adfinity.pro
+0.0.0.0 anix.media
+0.0.0.0 www.rustore.ru
+0.0.0.0 vd364.okcdn.ru
+0.0.0.0 rustore.ru
+0.0.0.0 api.mycdn.me
+0.0.0.0 vst.dfn-network.pro
+0.0.0.0 instruments.tds.bid
 0.0.0.0 ssp.bidster.net
 0.0.0.0 track.adpod.in
-0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 cdhttps://github.com/fulut/conf/edit/master/infon.jsdelivr.net
 0.0.0.0 prfctmney.com
 0.0.0.0 vak345.com
+0.0.0.0 vast.ufouxbwn.com
 0.0.0.0 z.cdn.trafficbass.com
 
 173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
