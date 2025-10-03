@@ -17,6 +17,10 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 
 # hosts
+0.0.0.0 moscow.megafon.ru
+0.0.0.0 megafon.ru
+0.0.0.0 orenburg.megafon.ru
+0.0.0.0 api.mindbox.ru
 0.0.0.0 beelineru.ru
 0.0.0.0 api-maps.yandex.ru
 0.0.0.0 moskva.beeline.ru
