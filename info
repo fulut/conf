@@ -18,6 +18,7 @@ https://p.thenewone.lol:8443/proxy.pac
 
 # hosts
 0.0.0.0 moscow.megafon.ru
+0.0.0.0 lc.megafon.ru
 0.0.0.0 megafon.ru
 0.0.0.0 orenburg.megafon.ru
 0.0.0.0 api.mindbox.ru
