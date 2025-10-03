@@ -28,6 +28,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 yandex.com
 0.0.0.0 yadro.ru
 0.0.0.0 dzen.ru
+0.0.0.0 s3.dzeninfra.ru
 0.0.0.0 static.dzeninfra.ru
 0.0.0.0 avatars.dzeninfra.ru
 0.0.0.0 sso.passport.yandex.ru
