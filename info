@@ -17,11 +17,19 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 
 # hosts
+0.0.0.0 ssp.bidster.net
+0.0.0.0 track.adpod.in
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 prfctmney.com
+0.0.0.0 vak345.com
+0.0.0.0 z.cdn.trafficbass.com
+
 173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 173.194.221.198 yt3.ggpht.com
 173.194.221.119 i.ytimg.com
 173.194.221.198 www.youtube.com
 108.177.14.132 yt3.googleusercontent.comts
+
 0.0.0.0 google.ru
 0.0.0.0 lenta.ru
 0.0.0.0 ya.com
