@@ -22,11 +22,13 @@ https://p.thenewone.lol:8443/proxy.pac
 173.194.221.119 i.ytimg.com
 173.194.221.198 www.youtube.com
 108.177.14.132 yt3.googleusercontent.comts
-
+0.0.0.0 google.ru
 0.0.0.0 lenta.ru
 0.0.0.0 ya.com
 0.0.0.0 yandex.com
 0.0.0.0 yadro.ru
+0.0.0.0 dzen.ru
+0.0.0.0 sso.passport.yandex.ru
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
 0.0.0.0 mc.yandex.ru
