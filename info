@@ -17,6 +17,9 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
 
 # hosts
+##
+0.0.0.0 asterios.tm
+0.0.0.0 forum.asterios.tm
 0.0.0.0 moscow.megafon.ru
 0.0.0.0 lc.megafon.ru
 0.0.0.0 megafon.ru
