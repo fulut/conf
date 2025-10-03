@@ -71,6 +71,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
 0.0.0.0 mc.yandex.ru
+0.0.0.0 amc.yandex.ru
 0.0.0.0 yastatic.net
 0.0.0.0 informer.yandex.ru
 0.0.0.0 counter.yadro.ru
@@ -84,7 +85,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 connect.ok.ru
 0.0.0.0 yandex.net
 0.0.0.0 web.tolstoycomments.com
-0.0.0.0 
+0.0.0.0 tiktok.com
 0.0.0.0 okcdn.ru
 0.0.0.0 m.ok.ru
 0.0.0.0 news.rambler.ru
