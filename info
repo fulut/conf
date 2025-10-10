@@ -103,11 +103,11 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 vast.ufouxbwn.com
 0.0.0.0 z.cdn.trafficbass.com
 
-173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
-173.194.221.198 yt3.ggpht.com
-173.194.221.119 i.ytimg.com
-173.194.221.198 www.youtube.com
-108.177.14.132 yt3.googleusercontent.comts
+#173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
+#173.194.221.198 yt3.ggpht.com
+#173.194.221.119 i.ytimg.com
+#173.194.221.198 www.youtube.com
+#108.177.14.132 yt3.googleusercontent.comts
 
 0.0.0.0 google.ru
 0.0.0.0 lenta.ru
