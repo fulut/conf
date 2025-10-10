@@ -21,6 +21,9 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 asterios.tm
 0.0.0.0 forum.asterios.tm
 
+0.0.0.0 vesti.ru
+0.0.0.0 ria.ru
+0.0.0.0 iz.ru
 0.0.0.0 cdn.adfinity.pro
 0.0.0.0 adfinity.pro
 0.0.0.0 156.ru
