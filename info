@@ -164,6 +164,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 yandex.kz
 0.0.0.0 yastatic.net
 0.0.0.0 informer.yandex.ru
+0.0.0.0 plvideo.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 vk.com
@@ -172,6 +173,8 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 ok.ru
 0.0.0.0 connect.ok.ru
 0.0.0.0 yandex.net
+0.0.0.0 cl-ms9a554f60.edgecdn.ru
+0.0.0.0 static.plvideo.ru
 0.0.0.0 web.tolstoycomments.com
 0.0.0.0 tiktok.com
 0.0.0.0 okcdn.ru
