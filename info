@@ -18,9 +18,14 @@ https://p.thenewone.lol:8443/proxy.pac
 
 # hosts
 ##
-0.0.0.0 asterios.tm
-0.0.0.0 forum.asterios.tm
 
+0.0.0.0 ufouxbwn.com
+0.0.0.0 5d-a13-202gv.stream-balancer-allo-1.live
+0.0.0.0 adjust.com   
+0.0.0.0 aso1.net
+0.0.0.0 buzzola.com  
+0.0.0.0 stream-balancer-allo-1.live.0.0 asterios.tm
+0.0.0.0 forum.asterios.tm
 0.0.0.0 gazeta.ru
 0.0.0.0 championat.com
 0.0.0.0 gts.tv
@@ -132,6 +137,12 @@ https://p.thenewone.lol:8443/proxy.pac
 #173.194.221.198 www.youtube.com
 #108.177.14.132 yt3.googleusercontent.comts
 
+#0.0.0.0 ajax.googleapis.com
+#0.0.0.0 googleads.g.doubleclick.net
+#0.0.0.0 static.doubleclick.net
+#0.0.0.0 www.gstatic.com
+#0.0.0.0 gstatic.com
+
 0.0.0.0 google.ru
 0.0.0.0 lenta.ru
 0.0.0.0 ya.com
@@ -151,8 +162,6 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 informer.yandex.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 cdn.jsdelivr.net
-#0.0.0.0 www.gstatic.com
-#0.0.0.0 gstatic.com
 0.0.0.0 vk.com
 0.0.0.0 vk.ru
 0.0.0.0 vk.com
@@ -167,8 +176,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 rambler.ru
 0.0.0.0 news.mail.ru
 0.0.0.0 ad.mail.ru
-#0.0.0.0 googleads.g.doubleclick.net
-#0.0.0.0 static.doubleclick.net
+
 0.0.0.0 mail.ru
 0.0.0.0 mycdn.me
 0.0.0.0 api.mycdn.me
@@ -198,4 +206,3 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 i.okcdn.ru
 0.0.0.0 vd409.okcdn.ru
 0.0.0.0 cdn.jsdelivr.net
-#0.0.0.0 ajax.googleapis.com
