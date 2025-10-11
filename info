@@ -20,7 +20,7 @@ https://p.thenewone.lol:8443/proxy.pac
 ##
 
 0.0.0.0 ufouxbwn.com
-0.0.0.0 5d-a13-202gv.stream-balancer-allo-1.live
+#0.0.0.0 5d-a13-202gv.stream-balancer-allo-1.live
 0.0.0.0 adjust.com   
 0.0.0.0 aso1.net
 0.0.0.0 buzzola.com  
