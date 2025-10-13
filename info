@@ -1,4 +1,4 @@
-////
+cd nfq ./dvtws --port=989 --dpi-desync=fake,multisplit --dpi-desync-split-seqovl=681 --dpi-desync-split-pos=1 --dpi-desync-fooling=ts --dpi-desync-repeats=8 
 privoxy
 listen-address  127.0.0.1:8118
 forward-socks5t   /               205.209.113.242:1080:1080 .
