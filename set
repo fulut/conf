@@ -1,3 +1,6 @@
+https://webhamster.ru/mytetrashare/index/mtb0/1698143053wqtsc8srj6
+ksh ./blockcheck.sh | tee /tmp/blockcheck.txt
+
 https://my-handbook.ru/2024/10/21/opnsense-dvtws-zapret/
 
 #/etc/pf.conf
