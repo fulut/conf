@@ -1,3 +1,5 @@
+https://my-handbook.ru/2024/10/21/opnsense-dvtws-zapret/
+
 #/etc/pf.conf
 pass in  quick on re0 proto tcp from port {80,443} flags SA/SA divert-packet port 989 no state
 pass in  quick on re0 proto tcp from port {80,443} no state
