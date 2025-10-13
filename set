@@ -4,4 +4,6 @@ pass in  quick on re0 proto tcp from port {80,443} no state
 pass out quick on re0 proto tcp to   port {80,443} divert-packet port 989 no state
 
 pfctl -f /etc/pf.conf
-cd nfq ./dvtws --port=989 --dpi-desync=fake,multisplit --dpi-desync-split-seqovl=681 --dpi-desync-split-pos=1 --dpi-desync-fooling=ts --dpi-desync-repeats=8 
+cd nfq 
+#!/bin/ksh
+./dvtws --port=989 --dpi-desync=fake,multisplit --dpi-desync-split-seqovl=681 --dpi-desync-split-pos=1 --dpi-desync-fooling=ts --dpi-desync-repeats=8 
