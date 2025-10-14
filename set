@@ -2,7 +2,7 @@ https://webhamster.ru/mytetrashare/index/mtb0/1698143053wqtsc8srj6
 ksh ./blockcheck.sh | tee /tmp/blockcheck.txt
 
 #!/bin/ksh
- ./dvtws --port=989  --dpi-desync=fake,multidisorder --dpi-desync-ttl=11 --orig-ttl=1 --orig-mod-start=s1 --orig-mod-cutoff=d1 --dpi-desync-split-pos=1,midsld
+ ./dvtws --port=989  --dpi-desync=fake,multidisorder --dpi-desync-ttl=11 --orig-ttl=1 --orig-mod-start=s1 --orig-mod-cutoff=d1 --dpi-desync-split-pos=1,midsld &
 
 https://my-handbook.ru/2024/10/21/opnsense-dvtws-zapret/
 
