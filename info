@@ -1,3 +1,11 @@
+/////
+serv: sshd port 443
+
+#!/bin/ksh
+ssh -vND 1080 -p 443 u@192.168.24.101
+
+////
+
 cd nfq ./dvtws --port=989 --dpi-desync=fake,multisplit --dpi-desync-split-seqovl=681 --dpi-desync-split-pos=1 --dpi-desync-fooling=ts --dpi-desync-repeats=8 
 privoxy
 listen-address  127.0.0.1:8118
