@@ -2,7 +2,9 @@
 serv: sshd port 443
 
 #!/bin/ksh
+
 ssh -vND 1080 -p 443 u@192.168.24.101
+ssh -vND 0.0.0.0:1080 u@192.168.24.101 
 
 //
 Host git.corp.example.com
