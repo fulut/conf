@@ -6,6 +6,9 @@ serv: sshd port 443
 ssh -vND 1080 -p 443 u@192.168.24.101
 ssh -vND 0.0.0.0:1080 u@192.168.24.101 
 
+scp root@123.123.123.123:/home/test.txt /directory
+
+
 //
 Host git.corp.example.com
   ProxyCommand=nc -X 5 -x localhost:1080 %h %p
