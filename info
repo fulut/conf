@@ -165,7 +165,98 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 s3.dzeninfra.ru
 0.0.0.0 static.dzeninfra.ru
 0.0.0.0 avatars.dzeninfra.ru
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+0.0.0.0 yandex.nu
+0.0.0.0 yandex.ua
+0.0.0.0 yandex.com.ru
+0.0.0.0 yandex.net.ru
+0.0.0.0 newsyandex.ru
+0.0.0.0 yanclex.ru
+0.0.0.0 yandes.ru
+0.0.0.0 yandx.ru
+0.0.0.0 yandfex.ru
+0.0.0.0 yandexmedia.ru
+0.0.0.0 wwwyandex.ru
+0.0.0.0 2yandex.ru
+0.0.0.0 ruscorpora.ru
+0.0.0.0 ja-sale.ru
+0.0.0.0 ya-sale.ru
+0.0.0.0 yandex-school.ru
+0.0.0.0 yandex-team.ru
+0.0.0.0 yandex-labs.ru
+0.0.0.0 ja-sales.ru
+0.0.0.0 nano-yandex.ru
+0.0.0.0 yandex-nano.ru
+0.0.0.0 volozh.ru
+0.0.0.0 yandex-rambler.ru
+0.0.0.0 yandex.asia
+0.0.0.0 yandex.mobi
+0.0.0.0 rabota.yandex.ru
+0.0.0.0 yaca.yandex.ru
+0.0.0.0 rasp.yandex.ru
+0.0.0.0 internet.yandex.ru
+0.0.0.0 collection.yandex.ru
+0.0.0.0 n.maps.yandex.ru
+0.0.0.0 ticket.yandex.ru
+0.0.0.0 time.yandex.ru
+0.0.0.0 news.yandex.ru
+0.0.0.0 disk.yandex.ru
+0.0.0.0  ege.yandex.ru
+0.0.0.0 opera.yandex.ru
+0.0.0.0 tv.yandex.ru
+0.0.0.0 partners.yandex.ru
+0.0.0.0 element.yandex.ru
+0.0.0.0 fotki.yandex.ru
+0.0.0.0 pdd.yandex.ru
+0.0.0.0 visual.yandex.ru
+0.0.0.0 wdgt.yandex.ru
+0.0.0.0 pogoda.yandex.ru
+0.0.0.0 fx.yandex.ru
+0.0.0.0 help.yandex.ru
+0.0.0.0 probki.yandex.ru
+0.0.0.0 webmaster.yandex.ru
+0.0.0.0 xml.yandex.ru
+0.0.0.0 punto.yandex.ru
+0.0.0.0 ie.yandex.ru
+0.0.0.0 images.yandex.ru
 0.0.0.0 sso.passport.yandex.ru
+0.0.0.0 direct.yandex.ru
+0.0.0.0 keyboard.yandex.ru
+0.0.0.0 realty.yandex.ru
+0.0.0.0 site.yandex.ru
+0.0.0.0 bm.yandex.ru
+0.0.0.0 soft.yandex.ru
+0.0.0.0 sprav.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 browser.yandex.ru
+0.0.0.0 calendar.yandex.ru
+0.0.0.0 mobile.yandex.ru
+0.0.0.0 stat.yandex.ru
+0.0.0.0 taxi.yandex.ru
+0.0.0.0 music.yandex.ru
+0.0.0.0 passport.yandex.ru
+0.0.0.0 podberi.ru
+0.0.0.0 auto.yandex.ru
+0.0.0.0 market.yandex.ru
+0.0.0.0 yandexsport.ru
+0.0.0.0 yandex-video.ru
+0.0.0.0 video-yandex.ru
+0.0.0.0 company.yandex.ru
+0.0.0.0 ruscorpora.ru
+0.0.0.0 mail.yandex.ru
+0.0.0.0 afisha.yandex.ru
+0.0.0.0 yandexvideo.ru
+0.0.0.0 videoyandex.ru
+0.0.0.0 video.yandex.ru
 0.0.0.0 ya.ru
 0.0.0.0 ya.net
 0.0.0.0 ya.kz
