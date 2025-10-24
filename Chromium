@@ -1,0 +1,3 @@
+
+#!/bin/ksh
+/usr/local/bin/chrome --single-process --disable-features=UseSkiaRenderer $
