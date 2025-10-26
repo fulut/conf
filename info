@@ -308,6 +308,6 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 california1955.nl
 0.0.0.0 usocial.pro
 0.0.0.0 a.suprion.ru
-0.0.0.0 i.okcdn.ru
+#0.0.0.0 i.okcdn.ru
 0.0.0.0 vd409.okcdn.ru
 0.0.0.0 cdn.jsdelivr.net
