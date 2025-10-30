@@ -1,8 +1,0 @@
-xset dpms 0 0 0 &
-xset s off -dpms $
-
-#xset q | grep -A4 DPMS 
-#xset dpms 0 0 6000
-#xset dpms 0 0 0
-#xset -q
-#xset
