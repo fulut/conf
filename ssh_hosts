@@ -41,7 +41,8 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 adjust.com   
 0.0.0.0 aso1.net
 0.0.0.0 buzzola.com  
-0.0.0.0 stream-balancer-allo-1.live.0.0 asterios.tm
+0.0.0.0 stream-balancer-allo-1.live
+0.0.0.0 asterios.tm
 0.0.0.0 forum.asterios.tm
 0.0.0.0 gazeta.ru
 0.0.0.0 championat.com
