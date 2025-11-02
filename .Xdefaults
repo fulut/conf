@@ -2,8 +2,9 @@ XTerm*loginShell:true
 XTerm*decTerminalID: vt340
 XTerm.vt100.allowMouseOps: true
 XTerm.vt100.metaSendsEscape: true
-XTerm.vt100.saveLines: 1024
+XTerm.vt100.saveLines: 4096
 XTerm.vt100.scrollBar: false
+
 URxvt.scrollBar: false
 URxvt.perl-ext-common: tabbed
 URxvt.letterSpace:      -1
