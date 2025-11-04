@@ -35,10 +35,13 @@ browser.cache.disk.enable false
 https://p.thenewone.lol:8443/proxy.pac 
 ///
 # echo permit persist :wheel > /etc/doas.conf
-# chmod 0600 /etc/doas.173.194.191.232 rr3---sn-q4flrne6.googlevideo.com
+# chmod 0600 /etc/doas
 
 # hosts
 ##
+0.0.0.0 astatic.trovocdn.net
+0.0.0.0 trovocdn.net
+0.0.0.0 trovo.live
 0.0.0.0 cdn.lotory.top
 0.0.0.0 ufouxbwn.com
 0.0.0.0 5d-a13-202gv.stream-balancer-allo-1.live
