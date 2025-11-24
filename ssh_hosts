@@ -38,7 +38,17 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas
 
 # hosts
-##
+0.0.0.0 self-repair.mozilla.org
+0.0.0.0 hm.com
+0.0.0.0 facebook.com
+0.0.0.0 bw-in-f100.google.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 p3a.brave.com
+0.0.0.0 variations.brave.com
+0.0.0.0 laptop-updates.brave.com
+0.0.0.0 static1.brave.com
+0.0.0.0 sitecheck.opera.com
+#
 0.0.0.0 bioware.com
 0.0.0.0 mcdonalds.com
 0.0.0.0 microsoft.com
