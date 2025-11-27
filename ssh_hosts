@@ -308,10 +308,10 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 mycdn.me
 0.0.0.0 api.mycdn.me
 0.0.0.0 api.expf.ru
-0.0.0.0 bl.rutube.ru
-0.0.0.0 ssp.rutube.ru
-#0.0.0.0 static.rutube.ru
-#0.0.0.0 test.rutube.ru
+#0.0.0.0 bl.rutube.ru
+#0.0.0.0 ssp.rutube.ru
+0.0.0.0 static.rutube.ru
+0.0.0.0 test.rutube.ru
 #0.0.0.0 pic.rutubelist.ru
 #0.0.0.0 rutube.ru
 0.0.0.0 log.rutube.ru
@@ -320,7 +320,7 @@ https://p.thenewone.lol:8443/proxy.pac
 0.0.0.0 goya.rutube.ru
 #0.0.0.0 river-1.rutube.ru
 0.0.0.0 instruments.tds.bid
-0.0.0.0 river-4-424.rtbcdn.ru
+#0.0.0.0 river-4-424.rtbcdn.ru
 0.0.0.0 vst.dfn-network.pro
 0.0.0.0 pretarg.adhigh.net
 0.0.0.0 0af2a962b0102942d9a7df351b20be55.com
