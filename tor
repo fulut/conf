@@ -1,0 +1,7 @@
+rcctl enable/start tor
+
+ClientTransportPlugin snowflake exec /usr/local/bin/snowflake_client
+UseBridges 1
+Bridge snowflake bla   bla
+Bridge snowflake bla   bla
+#DisableNetwork 1
