@@ -38,6 +38,8 @@ https://p.thenewone.lol:8443/proxy.pac
 # chmod 0600 /etc/doas
 
 # hosts
+0.0.0.0 15.197.167.90
+
 0.0.0.0 self-repair.mozilla.org
 0.0.0.0 hm.com
 0.0.0.0 facebook.com
